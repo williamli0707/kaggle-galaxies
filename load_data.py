@@ -6,7 +6,7 @@ import threading
 import time
 import skimage.transform
 import skimage.io
-import skimage.filters
+import skimage.filter
 import gzip
 import os
 import Queue
